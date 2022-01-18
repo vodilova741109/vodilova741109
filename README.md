@@ -49,8 +49,8 @@ https://github.com/vodilova741109/captcha
 https://github.com/vodilova741109/ozon <br>
 Озон на JS <br>
 
-https://github.com/vodilova741109/calc-test <br>
-Калькулятор <br>
+https://github.com/vodilova741109/calc-test/tree/Lesson16 <br>
+Калькулятор на JS <br>
 
 https://github.com/vodilova741109/3DGlo <br>
 JS Модальное окно, небольшой калькулятор и слайдер <br>
