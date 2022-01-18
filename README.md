@@ -36,7 +36,8 @@
 Верстка сайта с использование библиотеки slick <br>
 
 
-6. Создание капчи  с помощью canvas
+6. Создание капчи  с помощью canvas:
+https://github.com/vodilova741109/captcha
 
 7. https://granit-film.com/ <br>
 Доработка готовой темы под клиента <br>
