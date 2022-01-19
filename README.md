@@ -32,14 +32,16 @@
 Установка плагина Woocomerce и настройка <br>
 Заполнение карточек товаров  <br>
 
-5. https://github.com/vodilova741109/aurum  
+5. Создание страницы настройки плагина с возможностью добавлять новые поля: <br>
+https://github.com/vodilova741109/elastic_options <br>
+
+6. https://github.com/vodilova741109/aurum  
 Верстка сайта с использование библиотеки slick <br>
 
+7. Создание капчи  с помощью canvas: <br>
+https://github.com/vodilova741109/captcha <br>
 
-6. Создание капчи  с помощью canvas: <br>
-https://github.com/vodilova741109/captcha
-
-7. https://granit-film.com/ <br>
+8. https://granit-film.com/ <br>
 Доработка готовой темы под клиента <br>
 Наполнение контентом <br>
 Респонсивный дизайн под часто используемые размеры экрана <br>
