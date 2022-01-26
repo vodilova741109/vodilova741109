@@ -46,7 +46,15 @@ https://github.com/vodilova741109/captcha <br>
 Наполнение контентом <br>
 Респонсивный дизайн под часто используемые размеры экрана <br>
 
+9.https://chinawithadi.kz/  и http://www.modnitsa-shop.kz/
+Интернет-магазин на WP, доработка стилей, функциональности, 
+настройка плагинов Woocomerce, ACF и пр.
+
 Учебные проекты:<br>
+https://vwebproject.ru/public/3DGlo/
+
+https://vwebproject.ru/public/template_trc/
+
 
 https://github.com/vodilova741109/ozon <br>
 Озон на JS <br>
