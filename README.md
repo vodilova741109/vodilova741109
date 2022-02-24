@@ -50,6 +50,9 @@ https://github.com/vodilova741109/captcha <br>
 Интернет-магазин на WP, доработка стилей, функциональности, 
 настройка плагинов Woocomerce, ACF и пр.
 
+10. Tecтовое задание https://vodilova741109.github.io/ADWIN/
+Верстка, адаптив, посадка на CMS Bitrix
+
 Учебные проекты:<br>
 https://vwebproject.ru/public/3DGlo/
 
