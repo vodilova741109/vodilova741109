@@ -35,7 +35,8 @@
 5. Создание страницы настройки плагина WP с возможностью добавлять новые поля: <br>
 https://github.com/vodilova741109/elastic_options <br>
 
-6. https://github.com/vodilova741109/aurum  
+6. https://vodilova741109.github.io/aurum/ 
+7. https://github.com/vodilova741109/aurum  
 Верстка сайта с использование библиотеки slick <br>
 
 7. Создание капчи  с помощью canvas: <br>
