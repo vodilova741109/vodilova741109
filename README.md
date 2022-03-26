@@ -7,6 +7,11 @@
 <p>В 2021 прошла курс по JS https://drive.google.com/file/d/1NrS7qP0GWUVZ3ILF3gYWbEEJ83vLQIZy/view </p>
 <p>С июня 2021 года работаю в ООО ФАН. В мои задачи входит создание и поддержка сайтов на Wordress, посадка верстки на WP, верстка лениднгов.</p>
 <p>Начала изучать VUe и Nuxt. В будущем планирую заняться изучением PHP и Laravel.</p>
+Последние работы:<br>
+
+https://vodilova741109.github.io/calculate-new/calc <br>
+⚡ Калькулятор и анимация <br>
+
 Рабочие проекты: <br>
 
 
@@ -68,8 +73,6 @@ https://github.com/vodilova741109/ozon <br>
 https://github.com/vodilova741109/calc-test/tree/Lesson16 <br>
 Калькулятор на JS <br>
 
-https://vodilova741109.github.io/calculate-new/calc <br>
-⚡ Калькулятор и анимация <br>
 
 https://github.com/vodilova741109/3DGlo <br>
 JS Модальное окно, небольшой калькулятор и слайдер <br>
