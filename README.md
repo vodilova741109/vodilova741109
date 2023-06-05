@@ -14,6 +14,13 @@ https://vodilova741109.github.io/calculate-new/calc <br>
 
 Рабочие проекты: <br>
 1.https://prodomstroim.ru/kalkulyator/
+Верстка <br>
+Посадка на WP используя шаблоны и структуры файлов WP <br>
+Добавление кастомных типов записей с возможностью добавить мета и родительскую страницу одновременно <br>
+Создание строительных калькуляторов <br>
+Интерактивная карта на JS https://prodomstroim.ru/karta-snegovoj-nagruzki/ <br>
+Безопасность сайта <br>
+Написание инструкции для пользователя <br>
 
 2. https://fondfbr.ru/ <br>
 Верстка <br>
