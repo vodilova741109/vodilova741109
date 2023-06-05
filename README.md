@@ -13,10 +13,9 @@ https://vodilova741109.github.io/calculate-new/calc <br>
 ⚡ Калькулятор и анимация <br>
 
 Рабочие проекты: <br>
+1.https://prodomstroim.ru/kalkulyator/
 
-
-
-1. https://fondfbr.ru/ <br>
+2. https://fondfbr.ru/ <br>
 Верстка <br>
 Посадка на WP используя шаблоны и структуры файлов WP <br>
 Добавление плагина для мультиязычности <br>
@@ -25,43 +24,46 @@ https://vodilova741109.github.io/calculate-new/calc <br>
 Аимация заголовка на JS <br>
 Написание инструкции для пользователя <br>
 
-2. https://tion.kz/ <br>
+3. https://tion.kz/ <br>
   Перенос верстки сайта с drupal на Wordpress
   Установка плагина Woocomerce и настройка <br>
   Заполнение карточек товаров  <br>
   Найтройка SEO-оптимизации <br>
 
-3. http://modnitsa-shop.kz/ </br>
+4. http://modnitsa-shop.kz/ </br>
 Интернет -магазин на готовой теме WP с изменением стилей <br> 
 
-4. https://16film.ru/ <br>
+5. https://16film.ru/ <br>
 Посадка верстки на WP используя шаблоны и структуры файлов WP <br>
 Установка плагина Woocomerce и настройка <br>
 Заполнение карточек товаров  <br>
 
-5. Создание страницы настройки плагина WP с возможностью добавлять новые поля: <br>
+6. Создание страницы настройки плагина WP с возможностью добавлять новые поля: <br>
 https://github.com/vodilova741109/elastic_options <br>
 
-6. https://vodilova741109.github.io/aurum/ 
-7. https://github.com/vodilova741109/aurum  
+7. https://vodilova741109.github.io/aurum/ 
+8. https://github.com/vodilova741109/aurum  
 Верстка сайта с использование библиотеки slick <br>
 
-7. Создание капчи  с помощью canvas: <br>
+9. Создание капчи  с помощью canvas: <br>
 https://github.com/vodilova741109/captcha <br>
 
-8. https://granit-film.com/ <br>
+10. https://granit-film.com/ <br>
 Доработка готовой темы под клиента <br>
 Наполнение контентом <br>
 Респонсивный дизайн под часто используемые размеры экрана <br>
 
-9.https://chinawithadi.kz/  и http://www.modnitsa-shop.kz/
+11.https://chinawithadi.kz/  и http://www.modnitsa-shop.kz/
 Интернет-магазин на WP, доработка стилей, функциональности, 
 настройка плагинов Woocomerce, ACF и пр.
 
-10. Tecтовое задание https://vodilova741109.github.io/ADWIN/
+12. Tecтовое задание https://vodilova741109.github.io/ADWIN/
 Верстка, адаптив, посадка на CMS Bitrix
 
 Учебные проекты:<br>
+<p>To-Do List на React + TypeScript</p>
+https://vodilova741109.github.io/ToDoList-React/  <br>
+
 https://vwebproject.ru/public/3DGlo/
 
 https://vwebproject.ru/public/template_trc/
